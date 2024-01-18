@@ -31,5 +31,5 @@
 - :speech_balloon: Explainable AI & Mentoring
 
 <div>
-  <img src="https://media.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif" width="480px" alt="Fractal Dog GIF">
+  <img src="https://media.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy-downsized.gif" width="480px" alt="Fractal Dog GIF">
 </div>
