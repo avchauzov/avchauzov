@@ -21,6 +21,10 @@
   </a>
 </div>
 
+<h2>
+  About me:
+</h2>
+
 </div>
 - :chart_with_upwards_trend: Data Scientist and ML Engineer
 - :bar_chart: ex-Data Analyst
