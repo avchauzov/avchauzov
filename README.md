@@ -30,6 +30,7 @@
 - :bulb: Foundation in ML & Statistics
 - :speech_balloon: Explainable AI & Mentoring
 
-<div>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <img src="https://media.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy-downsized.gif" width="480px" alt="Fractal Dog GIF">
 </div>
+
