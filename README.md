@@ -34,7 +34,7 @@
 - :speech_balloon: `Explainable AI & Mentoring`
 
 <div style="text-align: center;">
-  <img src="https://media.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy-downsized.gif" width="512px" height="256px" alt="Fractal Dog GIF">
+  <img src="https://media.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy-downsized.gif" width="1024px" height="512px" alt="Fractal Dog GIF">
 </div>
 
 <p align="center">⬇️ Some of my works and hobby projects I'm working on now ⬇️</p>
