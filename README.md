@@ -27,7 +27,7 @@
   About me:
 </h2>
 
-- :chart_with_upwards_trend: 10+ YoE as Data Scientist/Analyst & ML Engineer
+- :chart_with_upwards_trend: `10+ YoE as Data Scientist/Analyst & ML Engineer`
 - :mortar_board: MSc in Applied Math
 - :rocket: NLP, LLM, GenAI
 - :bulb: Foundation in ML & Statistics
