@@ -30,4 +30,4 @@
 - :bulb: Foundation in ML & Statistics
 - :speech_balloon: Explainable AI & Mentoring
 
-![Fractal Tree GIF](https://tenor.com/view/geometry-math-design-gif-3462433)
+![Fractal Tree GIF](https://tenor.com/oGTR.gif)
