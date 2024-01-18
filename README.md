@@ -9,7 +9,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&height=77)](https://www.linkedin.com/in/avchauzov/)
 
-  [![CV](https://img.shields.io/badge/CV-8A2BE2?style=social&logoColor=white&color=black&height=77)](https://github.com/avchauzov/main_page/blob/main/Andrew-Chauzov-Resume.pdf)
+  [![CV](https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge&logoColor=white&color=black&height=77)](https://github.com/avchauzov/main_page/blob/main/Andrew-Chauzov-Resume.pdf)
   
   [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&height=77)](https://www.hackerrank.com/avchauzov)
   
