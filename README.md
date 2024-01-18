@@ -26,12 +26,13 @@
 </h2>
 
 </div>
+- :chart_with_upwards_trend: 10+ YoE as Data Scientist/Analyst & ML Engineer
 
-- :chart_with_upwards_trend: Data Scientist and ML Engineer
+- :rocket: NLP, LLM, GenAI Enthusiast
 
-- :bar_chart: ex-Data Analyst
+- :bulb: Strong foundation in ML, statistics
 
-- :mag_right: current interest in LLMs and GenAI
+- :speech_balloon: Expert in Explainable AI & Mentoring
 
 <div>
 
