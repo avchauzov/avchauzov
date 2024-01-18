@@ -27,7 +27,9 @@
 
 </div>
 - :chart_with_upwards_trend: Data Scientist and ML Engineer
+
 - :bar_chart: ex-Data Analyst
+
 - :mag_right: current interest in LLMs and GenAI
 <div>
 
