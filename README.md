@@ -30,4 +30,6 @@
 - :bulb: Foundation in ML & Statistics
 - :speech_balloon: Explainable AI & Mentoring
 
-<img src="https://media.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif" width="1024px"/>
+<div>
+  <img src="https://media.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif" width="1024px"/>
+</div>
