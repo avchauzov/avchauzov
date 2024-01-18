@@ -1,9 +1,3 @@
-<style>
-body {
-    font-family: "Courier New", monospace;
-}
-</style>
-
 <h1>
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100px"/>
   Hi! I'm Andrew
