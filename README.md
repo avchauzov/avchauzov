@@ -38,7 +38,3 @@
 </div>
 
 <p align="center">⬇️ Some of my works and hobby projects I'm working on now ⬇️</p>
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
