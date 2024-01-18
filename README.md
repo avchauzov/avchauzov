@@ -25,15 +25,10 @@
   About me:
 </h2>
 
-```
 - :chart_with_upwards_trend: 10+ YoE as Data Scientist/Analyst & ML Engineer
-
 - :rocket: NLP, LLM, GenAI Enthusiast
-
 - :bulb: Strong foundation in ML, statistics
-
 - :speech_balloon: Expert in Explainable AI & Mentoring
-```
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/i2tUkY5YrfN85y1W0P/giphy.gif" width="1024" height="256"/>
