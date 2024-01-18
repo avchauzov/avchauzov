@@ -1,3 +1,9 @@
+<style>
+body {
+    font-family: "Courier New", monospace;
+}
+</style>
+
 <h1>
   <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100px"/>
   Hi! I'm Andrew
@@ -28,7 +34,7 @@
 </h2>
 
 - :chart_with_upwards_trend: 10+ YoE as Data Scientist/Analyst & ML Engineer
-  :mortar_board: MSc in Applied Math
+- :mortar_board: MSc in Applied Math
 - :rocket: NLP, LLM, GenAI
 - :bulb: Foundation in ML & Statistics
 - :speech_balloon: Explainable AI & Mentoring
