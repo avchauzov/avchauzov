@@ -30,4 +30,4 @@
 - :bulb: Foundation in ML & Statistics
 - :speech_balloon: Explainable AI & Mentoring
 
-![Fractal Tree GIF](https://media.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif)
+<img src="https://media.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif" alt="Fractal Dog GIF">
