@@ -21,15 +21,17 @@
   </a>
 </div>
 
+---
+
 <h2>
   About me:
 </h2>
 
 - :chart_with_upwards_trend: 10+ YoE as Data Scientist/Analyst & ML Engineer
+  :mortar_board: MSc in Applied Math
 - :rocket: NLP, LLM, GenAI
 - :bulb: Foundation in ML & Statistics
 - :speech_balloon: Explainable AI & Mentoring
-- :mortar_board: MSc in Applied Math
 
 <div style="text-align: center;">
   <img src="https://media.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy-downsized.gif" width="1024px" height="512px" alt="Fractal Dog GIF">
