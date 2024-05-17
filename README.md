@@ -29,6 +29,6 @@
 
 - :chart_with_upwards_trend: `10+ YoE as Data Scientist/Analyst & ML Engineer`
 - :mortar_board: `MSc in Applied Math`
-- :rocket: `NLP, LLM, GenAI`
+- :rocket: `NLP, LLM and GenAI`
 
 <p align="center">⬇️ Some of my works and hobby projects I'm working on now ⬇️</p>
