@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/avchauzov/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&height=77" alt="LinkedIn" style="display: inline-block;">
   </a>
-  <a href="https://github.com/avchauzov/main_page/blob/main/Andrew-Chauzov-Resume.pdf">
-    <img src="https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge&logoColor=white&color=black&height=77" alt="CV" style="display: inline-block;">
-  </a>
   <a href="https://www.hackerrank.com/avchauzov">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&height=77" alt="HackerRank" style="display: inline-block;">
   </a>
@@ -27,7 +24,7 @@
   About me:
 </h2>
 
-- :chart_with_upwards_trend: `10+ YoE as Data Scientist/Analyst & ML Engineer`
+- :chart_with_upwards_trend: `Data Scientist & ML Engineer`
 - :mortar_board: `MSc in Applied Math`
 - :rocket: `NLP, LLM and GenAI`
 
