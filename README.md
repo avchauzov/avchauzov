@@ -25,7 +25,6 @@
 </h2>
 
 - :chart_with_upwards_trend: `Data Scientist & ML Engineer`
-- :mortar_board: `MSc in Applied Math`
 - :rocket: `NLP, LLM and GenAI`
 
 <p align="center">⬇️ Some of my works and hobby projects I'm working on now ⬇️</p>
